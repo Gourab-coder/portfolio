@@ -1,0 +1,14 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1080 1080" width="1080" height="1080">
+	<style>
+		tspan { white-space:pre } 
+		.s0 { fill: none;stroke: #000000;stroke-miterlimit:100 } 
+		.t1 { font-size: 113px;fill: #100f0e;font-weight: 400;font-family: "Aclonica-Regular", "Aclonica" } 
+	</style>
+	<path id="Shape 2" fill-rule="evenodd" class="s0" d="m825.62 224v631.27h-185.62v-631.27z"/>
+	<path id="Shape 1" fill-rule="evenodd" class="s0" d="m931 437v156h-691v-156z"/>
+	<path id="Shape 3" fill-rule="evenodd" class="s0" d="m888 490v59h-442v-59z"/>
+	<text id="gd" style="transform: matrix(1.12,0,0,1.12,245.674,551.407)">
+		<tspan x="0" y="0" class="t1">g</tspan><tspan  y="0" class="t1">d</tspan><tspan  y="0" class="t1">
+</tspan>
+	</text>
+</svg>
