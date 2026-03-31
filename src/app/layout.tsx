@@ -4,7 +4,7 @@ import Navbar from "../components/nav/Navbar";
 
 export const metadata: Metadata = {
   title: "Gourab Das | Full-Stack Engineer",
-  description: "Senior-style portfolio for Gourab Das, focused on polished frontend systems and practical backend engineering.",
+  description: "Senior-style portfolio of Gourab Das, focused on polished frontend systems and practical backend engineering.",
 };
 
 export default function RootLayout({
